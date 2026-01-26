@@ -13,19 +13,19 @@ const data = [
     title: 'Curated vacation looks',
     card: [
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/CleaningTool_2x._SY232_CB563137408_.jpg',
         subtitle: 'Swim'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/HomeStorage_2x._SY232_CB563137408_.jpg',
         subtitle: 'beauty'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/HomeDecor_2x._SY232_CB563137408_.jpg',
         subtitle: 'accessories'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Bedding_2x._SY232_CB563137408_.jpg',
         subtitle: 'apparel'
       }
     ]
@@ -34,19 +34,19 @@ const data = [
     title: 'Save on Amazon Devices',
     card: [
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_2_x2._SY232_CB595261253_.jpg',
         subtitle: 'Limited time deal'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_3_x2._SY232_CB595261253_.jpg',
         subtitle: 'Limited time deal'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_1_x2._SY232_CB595261253_.jpg',
         subtitle: 'Limited time deal'
       },
       {
-        url: 'https://castore.uz/upload/iblock/75b/57qax8fpt9bitb7jbfftqs9n20j07n34/planshet-apple-ipad-air-wi-fi-cellular-256gb-space-grey.jpg',
+        url: 'https://images-na.ssl-images-amazon.com/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_4_x2._SY232_CB595261253_.jpg',
         subtitle: 'Limited time deal'
       }
     ]

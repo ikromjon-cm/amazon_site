@@ -4,7 +4,6 @@ import './Banner.css';
 const Banner = ({ data }) => {
   return (
     <div className="banner-container">
-      {/* Kartochkalar ro'yxati */}
       <div className="cards-wrapper">
         {data.map((item, index) => (
           <div key={index} className="card-box">
