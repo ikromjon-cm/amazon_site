@@ -30,6 +30,9 @@ const data = [
       }
     ]
   },
+
+
+  
   {
     title: 'Save on Amazon Devices',
     card: [
