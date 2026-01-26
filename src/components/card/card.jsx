@@ -3,15 +3,15 @@ import './Card.css';
 
 const Banner = ({ data }) => {
   return (
-    <div className="carts-container">
-      <div className="carts-wrapper">
+    <div className="card-container">
+      <div className="card-wrapper">
         {data.map((item, index) => (
-          <div key={index} className="carts-box">
-            <h2 className="carts-title">{item.title}</h2>
+          <div key={index} className="card-box">
+            <h2 className="card-title">{item.title}</h2>
             
-            <div className="carts-grid">
+            <div className="card-grid">
               {item.card.map((product, i) => (
-                <div key={i} className="carts-item">
+                <div key={i} className="card-item">
                   <div className="images-box">
                     <img src={product.url} alt={product.subtitle} />
                   </div>

@@ -1,9 +1,9 @@
-.carts-container {
+.card-container {
   background-color: #eaeded;
   padding: 20px;
 }
 
-.carts-wrapper {
+.card-wrapper {
   display: grid;
 
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -12,27 +12,27 @@
   margin: 0 auto;
 }
 
-.carts-box {
+.card-box {
   background-color: #fff;
   padding: 20px;
   display: flex;
   flex-direction: column;
 }
 
-.carts-title {
+.card-title {
   font-size: 21px;
   font-weight: 700;
   margin-bottom: 10px;
   color: #0f1111;
 }
 
-.carts-grid {
+.card-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 15px;
 }
 
-.carts-item {
+.cartd-item {
   display: flex;
   flex-direction: column;
 }
