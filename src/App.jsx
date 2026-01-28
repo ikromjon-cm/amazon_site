@@ -3,7 +3,7 @@ import Header from './components/header/Header';
 import Banner from './components/Banner/Banner';
 import Hero from './components/Hero/Hero';
 import Carts from './components/carts/Carts';
-import Card from './components/card/card';
+import Card from './components/card/Card';
 const nav_link = [
   'Amazon haul', 'medical care', 'amazon basics', 'best sellers', 'books', 'registry', 'gift cards',
   'smart home', 'new release', 'today deals', 'prome', 'groceries', 'customer service', 'pharmacy', 'music'
