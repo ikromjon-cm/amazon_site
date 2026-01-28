@@ -27,7 +27,7 @@ const data = [
       },
       {
         url: 'https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2024/BAU2024Sept/Bedding_2x._SY232_CB563137408_.jpg',
-        subtitle: 'apparel'
+        subtitle: 'appare'
       }
     ]
   },
